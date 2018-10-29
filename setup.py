@@ -8,5 +8,5 @@ setup(
     license='Apache License 2.0',
     author='Ankush Bhatia',
     author_email='ankushbhatia02@gmail.com',
-    description='Docsearch is a python module for finding similar documents from a large corpus of documents. '
+    description='Python Module for searching similar documents from a large corpus.'
 )
