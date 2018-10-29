@@ -8,5 +8,6 @@ setup(
     license='Apache License 2.0',
     author='Ankush Bhatia',
     author_email='ankushbhatia02@gmail.com',
+    install_requires=['scipy', 'stop_words', 'nltk', 'gensim', 'pyemd', 'pandas'],
     description='Python Module for searching similar documents from a large corpus.'
 )
