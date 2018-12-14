@@ -2,7 +2,13 @@
 It is a python library for Searching similar documents in a large corpus of documents based on my recent project.
 It uses a 2-layer Earth Mover's Distance (my research) or a Jenson Shannon Distance over latent topic distribution of documents and word embeddings. 
 
-I'll update the further methodology once my paper is published.
+I'll update about further methodology once my paper is published.
+
+## Installation
+
+pip install docsearch
+
+link to pypi project : [https://pypi.org/project/docsearch/](https://pypi.org/project/docsearch/)
 
 
 ## Classes
